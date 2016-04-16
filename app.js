@@ -10,4 +10,8 @@ app.config(function($routeProvider){
       templateUrl: 'pages/resume.html',
       controller: 'resumeController'
   })
+    .when('/aboutme', {
+      templateUrl: 'pages/aboutme.html',
+      controller: 'aboutmecontroller'
+  })
 })

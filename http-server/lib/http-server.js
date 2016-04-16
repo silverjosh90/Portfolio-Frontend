@@ -33,8 +33,8 @@ function HttpServer(options) {
   }
   else {
     try {
-      fs.lstatSync('./public');
-      this.root = './public';
+      fs.lstatSync('./angular');
+      this.root = './angular';
     }
     catch (err) {
       this.root = './';
