@@ -234,3 +234,93 @@ body {
   height: 100vh;
   width: 80vw;
 }
+
+.aboutMe {
+  position: relative;
+  top: -8vh;
+}
+.smiley {
+  height: 40vh;
+  width: 30vw;
+  text-align: center;
+  float: left;
+  border: 1px solid black;
+  margin: 2%;
+  margin-left: 4%;
+}
+.smiley-snake {
+  height: 35vh;
+}
+
+.sorting {
+text-align: center;
+height: 40vh;
+width: 30vw;
+float: left;
+border: 1px solid black;
+margin: 2%
+
+}
+
+.sorting-hat {
+  height: 30vh
+}
+
+.betterway{
+  text-align: center;
+  height: 40vh;
+  width: 30vw;
+  float: left;
+  border: 1px solid black;
+  margin: 2%;
+  margin-left: 4%;
+}
+
+.abetterway {
+  height: 30vh
+}
+
+.gSlack {
+  height: 30vh
+
+}
+
+.Slackclone {
+  text-align: center;
+  height: 40vh;
+  width: 30vw;
+  border: 1px solid black;
+  float: left;
+  margin: 2%;
+}
+
+.projects {
+
+}
+
+.smileyPage {
+
+}
+
+.smileyPagePic {
+  height: 50vh;
+  float: left;
+}
+
+.smileyTitle {
+  padding-left: 6%;
+}
+.liveLink {
+  clear: both;
+  padding-left: 6%;
+}
+.smileyPage {
+  position: relative;
+  top: -8vh;
+}
+
+.slackPagePic {
+  height: 50vh;
+  float: left;
+  border: 1px solid black;
+}
